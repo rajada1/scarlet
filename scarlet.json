@@ -1,0 +1,24 @@
+{
+    "META": {
+        "repoName": "Br AppsClone",
+        "repoIcon": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png"
+    },
+    "Tweaked": [
+        {
+            "name": "Kiwify Clone",
+            "version": "1.0",
+            "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Climax.png",
+            "down": "https:\/\/ipa.cypwn.xyz\/ipas\/Climax.ipa",
+            "category": "Tweaked Apps",
+            "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+            "description": "NSFW. 18+ Corn app by Kanji",
+            "bundleID": "Climax",
+            "contact": {
+                "web": "https:\/\/ipa.cypwn.xyz",
+                "twitter": "https:\/\/twitter.com\/cypwnrepo"
+            },
+            "screenshots": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Climax\/Climax-0.png"
+            ]
+        }
+}
